@@ -1454,7 +1454,7 @@ select:focus {
     border-radius: 50%;
     background: #fff;
     color: #7c7e84;
-    font-size: 14px;
+    font-size: 25px;
     line-height: 50px;
     text-align: center;
     transition: all 700ms ease 100ms; 
