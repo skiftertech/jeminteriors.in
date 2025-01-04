@@ -3466,7 +3466,7 @@ select:focus {
 }
 .footer-social-links .sociallinks-style-one li a i {
     color: #7c7e84;
-    font-size: 14px;
+    font-size: 25px;
     font-weight: 400;
     transition: all 500ms ease;
 }
