@@ -3436,7 +3436,7 @@ select:focus {
     margin: 0;
 }
 .footer-bottom-area .copyright-text p a {
-    color: #aa3c3d;
+    color: #fff;
     font-weight: 500;
     transition: all 500ms ease;
 }
