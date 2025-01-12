@@ -908,6 +908,7 @@ select:focus {
     position: relative;
     display: block;
     text-align: center;
+	color:#ccc;
 }
 .top-style1 p{
     margin: 0;    
