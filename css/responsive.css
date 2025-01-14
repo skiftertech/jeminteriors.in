@@ -1487,7 +1487,8 @@ li .single-footer-contact-info .inner {
     z-index: 33;
 }
 .logo-box-style1 img {
-    max-width: 70%;
+     width: 84px;
+        margin-top: -19px;
 }    
     
 .main-menu-box {
