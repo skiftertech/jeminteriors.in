@@ -7450,7 +7450,7 @@ li .single-footer-contact-info .text p span{
 .services-style2-service-page .text {
     position: relative;
     display: block;
-    margin-top: 10px;
+    margin-top: -10px;
 }
 .services-style2-service-page .text p{
     font-size: 17px;
