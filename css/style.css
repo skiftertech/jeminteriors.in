@@ -84,8 +84,8 @@ body {
 }
 body {
     color: #828282;
-    font-size:17px;
-    line-height:27px;
+    font-size: 17px !important;
+    line-height: 27px !important;
     font-weight: 400;
     font-family: 'Rubik', sans-serif;
 }
