@@ -1776,7 +1776,8 @@ li .single-footer-contact-info .inner {
     z-index: 33;
 }
 .logo-box-style2 a img{
-    width: 70%;
+    width: 84px;
+        margin-top: -19px;
 }    
  
 .mainmenu-right.style2 {
